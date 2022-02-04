@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1100px" height="474px" viewBox="0 0 1100 474" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <linearGradient x1="6.21807796%" y1="56.0281262%" x2="97.3336694%" y2="41.3998157%" id="linearGradient-1">
+            <stop stop-color="#5445FB" offset="0%"></stop>
+            <stop stop-color="#26D5FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.23958333%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#5445FB" offset="0%"></stop>
+            <stop stop-color="#26D5FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="97.6314126%" x2="50%" y2="16.4785043%" id="linearGradient-3">
+            <stop stop-color="#5445FB" offset="0%"></stop>
+            <stop stop-color="#26D5FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="my-design" fill-rule="nonzero">
+            <g id="Group-2">
+                <polygon id="Hero" fill="url(#linearGradient-1)" points="0 0 1100 0 1100 473 0 473"></polygon>
+                <polygon id="Rectangle-2" fill="url(#linearGradient-2)" opacity="0.987444196" points="0 128 1098 128 1098 419 0 419"></polygon>
+                <polygon id="Triangle" fill="url(#linearGradient-3)" opacity="0.163337054" points="406 73 719 474 93 474"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
