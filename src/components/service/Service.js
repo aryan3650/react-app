@@ -4,6 +4,7 @@ import Card from "./Cards";
 const Service = () => {
   return (
     <section
+      id="service-sec"
       style={{
         backgroundImage: `url(${serviceSectionbg})`,
         backgroundSize: "Cover",

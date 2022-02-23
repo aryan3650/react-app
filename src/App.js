@@ -6,7 +6,7 @@ import Menu from "./components/Menu";
 const App = () => {
   return (
     <div className="App prose">
-      <MenuProvider MenuComponent={Menu}>
+      <MenuProvider MenuComponent={Menu} direction="right" animation="">
         <Header />
       </MenuProvider>
       <Main />

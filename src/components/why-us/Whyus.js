@@ -4,6 +4,7 @@ import Whyright from "./Whyright";
 const Whyus = () => {
   return (
     <section
+      id="why-sec"
       style={{
         backgroundImage: `url(${whySectionbg})`,
         backgroundSize: "Cover",
